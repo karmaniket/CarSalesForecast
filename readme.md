@@ -1,6 +1,6 @@
-# Car Sales Data Pipeline
+# Car Sales Trend Analysis & Forecasting
 
-Analyze and visualize trends in a large synthetic car sales dataset. This project provides a modular pipeline for data cleaning, insight extraction, and visualization, enabling you to explore car sales patterns, compare brands, and predict future sales.
+Analyze and visualize trends in a large synthetic car sales dataset. This project provides a modular framework for data analysis, insight extraction, and visualization, enabling you to explore car sales patterns, compare brands, and predict future sales.
 
 ## Visualization
 
@@ -29,7 +29,7 @@ Analyze and visualize trends in a large synthetic car sales dataset. This projec
 
 ## Features
 
-- **Data Cleaning:** Standardizes and aggregates raw sales data for analysis
+- **Data Preparation:** Standardizes and aggregates raw sales data for analysis
 - **Insight Extraction:** Find top brands by country/year, global leaders, and sales totals
 - **Visualization:** Generate heatmaps, bar charts, line plots, and prediction plots
 - **Sales Prediction:** Predict future sales for a brand in a country using linear regression
@@ -53,8 +53,8 @@ Analyze and visualize trends in a large synthetic car sales dataset. This projec
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/karmaniket/CarSalesPipeline.git
-cd CarSalesPipeline
+git clone https://github.com/karmaniket/CarSalesForecast.git
+cd CarSalesForecast
 ```
 
 ### 2. Install Requirements
